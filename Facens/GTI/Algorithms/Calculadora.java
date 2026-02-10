@@ -1,4 +1,4 @@
-package src;
+
 // Ja foi visto
 
 import java.util.Scanner;
@@ -33,17 +33,28 @@ public class Calculadora{
                     resultado = primeiro - segundo;
                     break;
                 case '3':
-                    resultado = primeiro/segundo;
+                    if (segundo != 0) {
+                        resultado = primeiro / segundo;
+                    } else {
+                        System.out.println("Erro: Divisão por zero não é permitida.");
+                        // Set a flag or handle this gracefully to avoid printing invalid result
+                        // For simplicity in this context, we might just return to menu or set a special value, 
+                        // but let's just avoid the print below.
+                        op = ' '; // Reset op to avoid printing result
+                    }
                     break;
                 case '4':
-                    resultado = primeiro*segundo;
+                    resultado = primeiro * segundo;
                     break;
                 default:
-                    System.out.println("Opereação invalida");
+                    System.out.println("Operação invalida");
+                    op = ' '; // Reset op to avoid printing result
                     break;           
             }
 
-            System.out.println("O resultado é: " + resultado);
+            if (op != ' ') {
+                System.out.println("O resultado é: " + resultado);
+            }
 
             System.out.println(" ");
 

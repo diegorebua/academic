@@ -1,4 +1,4 @@
-package src;
+
 public class NumerosPares{
 
     public static void main(String[] args){
