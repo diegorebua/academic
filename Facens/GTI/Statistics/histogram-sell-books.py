@@ -18,11 +18,13 @@ for livro in livros[:5]:  # Mostrando os primeiros 5 itens
     print(f"Gênero: {livro[0]}, Vendas: {livro[1]}, Preço: {livro[2]:.2f} USD")
 print()
 
+import matplotlib.pyplot as plt
+
 # Criando o histograma
 plt.figure(figsize=(8, 5))
-(n, bins, patches) = plt.hist(vendas_livros, bins=10, color='blue', alpha=0.7) #temperaturas, bins=5
-plt.title('Distribuição da Temperatura Média')
-plt.xlabel('Temperatura (°C)')
+(n, bins, patches) = plt.hist(vendas_livros, bins=10, color='blue', alpha=0.7) #vendas, bins=10
+plt.title('Distribuição de Vendas de Livros')
+plt.xlabel('Vendas')
 plt.ylabel('Frequência')
 plt.grid(axis='y', alpha=0.75)
 plt.show()
