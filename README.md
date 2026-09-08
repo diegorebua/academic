@@ -6,7 +6,7 @@ Este repositório tem como objetivo centralizar projetos acadêmicos e anotaçõ
 
 O projeto está organizado em dois diretórios principais:
 
-### 1. Anotações (`/Anotações`)
+### 1. Estudos (`/Estudos`)
 Esta pasta contém resumos e apontamentos sobre diversos conceitos da área de tecnologia, divididos nas seguintes categorias:
 - **Arquitetura**: Padrões de projeto, arquitetura de software e boas práticas.
 - **Backend**: Desenvolvimento no lado do servidor e construção de APIs.
@@ -14,12 +14,18 @@ Esta pasta contém resumos e apontamentos sobre diversos conceitos da área de t
 - **Conceitos básicos**: Fundamentos teóricos essenciais para o desenvolvimento de software.
 - **Frontend**: Desenvolvimento de interfaces de usuário e frameworks.
 - **Infra**: Infraestrutura, conteinerização (Docker), práticas de DevOps e computação em nuvem.
-- **Checklist de estudos.md**: Documento de controle e acompanhamento de tópicos de estudo.
+- **Geral**: Checklist de estudos e acompanhamento de tópicos.
 
 ### 2. Projetos Acadêmicos (`/Facens`)
 Neste diretório estão armazenados os projetos práticos desenvolvidos durante o curso na instituição Facens.
-- **GTI**: Projetos desenvolvidos para as disciplinas do curso de Gestão da Tecnologia da Informação.
+- **ADS**: Projetos desenvolvidos para as disciplinas do curso de Análise e Desenvolvimento de Sistemas. Cada disciplina é organizada em `exercises` (prática) e `notes` (anotações teóricas):
+  - `algorithms`: Algoritmos e lógica de programação.
+  - `data-structures`: Estrutura de dados.
+  - `embedded-systems`: Sistemas embarcados e IoT (Arduino/C++).
+  - `mobile-development`: Programação para dispositivos móveis.
+  - `object-oriented-programming`: Programação orientada a objetos (Java).
+  - `statistics`: Estatística aplicada com Python.
 
 ## Como Navegar
-- Para consultar materiais de estudo e resumos técnicos, acesse o diretório `Anotações`.
+- Para consultar materiais de estudo e resumos técnicos, acesse o diretório `Estudos`.
 - Para visualizar os projetos aplicados, códigos-fonte e relatórios acadêmicos, acesse o diretório `Facens`.
