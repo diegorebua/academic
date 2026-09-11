@@ -1,1 +1,0 @@
-# 02_structs_metodos\n\n**Descrição:** Crie structs para representar Formas (Círculo, Retângulo) e métodos para calcular área.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

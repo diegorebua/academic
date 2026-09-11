@@ -1,0 +1,1 @@
+# 02 gRPC\n\n**Descrição:** Crie um microserviço simples de gRPC (Server e Client).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

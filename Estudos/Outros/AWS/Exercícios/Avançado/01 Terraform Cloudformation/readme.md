@@ -1,0 +1,1 @@
+# 01 Terraform Cloudformation\n\n**Descrição:** Provisione a infraestrutura do exercício intermediário (EC2 + RDS ou Lambda + API Gateway) usando IaC (Infrastructure as Code).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,0 +1,1 @@
+# 01 Utility Types\n\n**Descrição:** Utilize Partial, Pick, Omit, e Record para manipular tipos complexos de uma API fictícia.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

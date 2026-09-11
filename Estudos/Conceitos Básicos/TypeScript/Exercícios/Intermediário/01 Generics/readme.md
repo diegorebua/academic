@@ -1,0 +1,1 @@
+# 01 Generics\n\n**Descrição:** Crie uma classe genérica de Pilha (Stack) e Fila (Queue).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

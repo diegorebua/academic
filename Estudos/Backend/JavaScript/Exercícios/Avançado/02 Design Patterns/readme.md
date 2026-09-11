@@ -1,0 +1,1 @@
+# 02 Design Patterns\n\n**Descrição:** Implemente os padrões de projeto Observer e Singleton em uma aplicação simulada.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

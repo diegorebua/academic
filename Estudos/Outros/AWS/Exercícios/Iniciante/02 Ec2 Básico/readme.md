@@ -1,0 +1,1 @@
+# 02 Ec2 Básico\n\n**Descrição:** Suba uma instância EC2 simples, conecte via SSH e instale um servidor web (nginx).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

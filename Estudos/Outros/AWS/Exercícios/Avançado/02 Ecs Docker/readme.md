@@ -1,0 +1,1 @@
+# 02 Ecs Docker\n\n**Descrição:** Faça o build de uma imagem Docker da sua API, suba no ECR e rode no ECS (Fargate).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,0 +1,1 @@
+# 01 Gerenciamento Estado\n\n**Descrição:** Crie uma mini loja virtual usando Context API + useReducer (ou Redux/Zustand) para gerenciar o carrinho.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

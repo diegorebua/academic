@@ -1,1 +1,0 @@
-# 01_poo_basico\n\n**Descrição:** Crie um sistema de Banco simples com classes de Conta, Cliente, simulando depósito e saque.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

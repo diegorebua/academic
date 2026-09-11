@@ -1,0 +1,1 @@
+# 02 Lambda API Gateway\n\n**Descrição:** Crie uma função Serverless (Lambda) em Node ou Python e exponha por uma rota HTTP via API Gateway.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

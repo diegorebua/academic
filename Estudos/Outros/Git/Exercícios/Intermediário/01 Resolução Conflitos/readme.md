@@ -1,0 +1,1 @@
+# 01 Resolução Conflitos\n\n**Descrição:** Simule um conflito de merge alterando a mesma linha em duas branches e resolva-o.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

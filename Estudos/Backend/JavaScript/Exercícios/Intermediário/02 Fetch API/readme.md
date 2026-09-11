@@ -1,0 +1,1 @@
+# 02 Fetch API\n\n**Descrição:** Consuma uma API pública (ex: ViaCEP) e exiba os resultados.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

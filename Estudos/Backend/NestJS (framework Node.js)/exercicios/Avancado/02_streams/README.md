@@ -1,1 +1,0 @@
-# 02_streams\n\n**Descrição:** Crie um script usando Streams para processar um arquivo CSV gigantesco (ex: 1GB) sem estourar a memória.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

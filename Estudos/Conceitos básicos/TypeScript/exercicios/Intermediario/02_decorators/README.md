@@ -1,1 +1,0 @@
-# 02_decorators\n\n**Descrição:** Implemente um decorator simples para medir o tempo de execução de um método.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

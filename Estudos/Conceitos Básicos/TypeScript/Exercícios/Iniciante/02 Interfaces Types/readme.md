@@ -1,0 +1,1 @@
+# 02 Interfaces Types\n\n**Descrição:** Crie interfaces e types para modelar os dados de um sistema de biblioteca (Livro, Autor, Empréstimo).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

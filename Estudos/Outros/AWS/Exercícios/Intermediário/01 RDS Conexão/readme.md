@@ -1,0 +1,1 @@
+# 01 RDS Conexão\n\n**Descrição:** Crie um banco de dados no RDS (Postgres/MySQL) e conecte sua EC2 a ele com regras de Security Group.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

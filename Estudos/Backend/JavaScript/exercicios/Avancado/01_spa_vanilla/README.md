@@ -1,1 +1,0 @@
-# 01_spa_vanilla\n\n**Descrição:** Crie uma Single Page Application usando apenas JavaScript puro, com roteamento no frontend.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,1 +1,0 @@
-# 01_api_express\n\n**Descrição:** Crie uma API REST CRUD para gerenciar 'Usuários' usando Express e dados em memória.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

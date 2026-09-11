@@ -1,1 +1,0 @@
-# 01_comandos_basicos\n\n**Descrição:** Init, add, commit, status, log. Configure seu usuário e email.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

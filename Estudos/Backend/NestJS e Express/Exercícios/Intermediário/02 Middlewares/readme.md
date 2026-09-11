@@ -1,0 +1,1 @@
+# 02 Middlewares\n\n**Descrição:** Implemente middlewares de autenticação (simulada) e log de requisições na API.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

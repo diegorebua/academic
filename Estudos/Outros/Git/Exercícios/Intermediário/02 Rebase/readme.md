@@ -1,0 +1,1 @@
+# 02 Rebase\n\n**Descrição:** Mantenha o histórico limpo usando rebase em vez de merge. Faça rebase interativo para squashing de commits.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

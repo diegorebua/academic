@@ -1,1 +1,0 @@
-# 01_arquitetura_hexagonal\n\n**Descrição:** Refatore a API para usar Arquitetura Hexagonal ou Clean Architecture.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

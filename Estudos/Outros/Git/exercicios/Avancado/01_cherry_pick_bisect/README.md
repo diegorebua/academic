@@ -1,1 +1,0 @@
-# 01_cherry_pick_bisect\n\n**Descrição:** Traga um commit específico de outra branch com cherry-pick. Encontre um commit que quebrou o código usando git bisect.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

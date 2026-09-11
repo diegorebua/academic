@@ -1,0 +1,1 @@
+# 01 Pinia\n\n**Descrição:** Implemente gerenciamento de estado complexo com Pinia em um app de carrinho de compras.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

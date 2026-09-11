@@ -1,1 +1,0 @@
-# 01_todo_list\n\n**Descrição:** Crie uma lista de tarefas (To-Do List) no terminal usando readline ou no navegador com manipulação do DOM.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,0 +1,1 @@
+# 02 Concorrência\n\n**Descrição:** Crie um programa que faça requisições a 5 URLs diferentes simultaneamente usando Goroutines e WaitGroups.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

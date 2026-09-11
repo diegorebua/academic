@@ -1,1 +1,0 @@
-# 02_type_guards_avancados\n\n**Descrição:** Crie type guards customizados para validar estruturas de dados complexas recebidas via JSON.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

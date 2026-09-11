@@ -1,0 +1,1 @@
+# 02 Composables\n\n**Descrição:** Crie Custom Composables para lógica reutilizável (ex: useFetch, useLocalStorage).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

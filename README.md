@@ -10,11 +10,12 @@ O projeto está organizado em dois diretórios principais:
 Esta pasta contém resumos e apontamentos sobre diversos conceitos da área de tecnologia, divididos nas seguintes categorias:
 - **Arquitetura**: Padrões de projeto, arquitetura de software e boas práticas.
 - **Backend**: Desenvolvimento no lado do servidor e construção de APIs.
-- **Banco de dados**: Modelagem de dados, bancos relacionais (SQL) e não relacionais (NoSQL).
-- **Conceitos básicos**: Fundamentos teóricos essenciais para o desenvolvimento de software.
+- **Banco de Dados**: Modelagem de dados, bancos relacionais (SQL) e não relacionais (NoSQL).
+- **Conceitos Básicos**: Fundamentos teóricos essenciais para o desenvolvimento de software.
 - **Frontend**: Desenvolvimento de interfaces de usuário e frameworks.
 - **Infra**: Infraestrutura, conteinerização (Docker), práticas de DevOps e computação em nuvem.
 - **Geral**: Checklist de estudos e acompanhamento de tópicos.
+- **Outros**: Estudos de linguagens (Go, Java) e ferramentas como Git e AWS.
 
 ### 2. Projetos Acadêmicos (`/Facens`)
 Neste diretório estão armazenados os projetos práticos desenvolvidos durante o curso na instituição Facens.

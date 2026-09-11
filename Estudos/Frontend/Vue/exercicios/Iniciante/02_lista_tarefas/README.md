@@ -1,1 +1,0 @@
-# 02_lista_tarefas\n\n**Descrição:** To-do list simples com v-model, v-for e v-if.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,1 +1,0 @@
-# 02_multithreading\n\n**Descrição:** Implemente um produtor-consumidor usando Threads e BlockingQueue.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

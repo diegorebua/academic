@@ -1,1 +1,0 @@
-# 01_hello_world\n\n**Descrição:** Crie um servidor HTTP simples nativo que retorna 'Hello World'.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

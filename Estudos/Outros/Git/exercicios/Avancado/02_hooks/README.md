@@ -1,1 +1,0 @@
-# 02_hooks\n\n**Descrição:** Crie um pre-commit hook simples (ex: impedir commits com a palavra TODO).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

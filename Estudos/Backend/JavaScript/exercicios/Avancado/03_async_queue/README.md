@@ -1,1 +1,0 @@
-# 03_async_queue\n\n**Descrição:** Crie uma fila de processamento assíncrono com limite de concorrência.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

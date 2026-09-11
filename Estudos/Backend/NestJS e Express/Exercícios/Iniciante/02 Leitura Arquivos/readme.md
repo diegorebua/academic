@@ -1,0 +1,1 @@
+# 02 Leitura Arquivos\n\n**Descrição:** Script CLI para ler, contar linhas de um arquivo .txt e escrever o resultado em outro arquivo (usando fs).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,1 +1,0 @@
-# 02_colecoes\n\n**Descrição:** Use ArrayList, HashSet e HashMap para organizar e filtrar uma lista de alunos e notas.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

@@ -1,0 +1,1 @@
+# 01 Channels\n\n**Descrição:** Implemente um padrão de Worker Pool usando goroutines e channels para processar tarefas em background.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

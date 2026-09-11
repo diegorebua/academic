@@ -1,1 +1,0 @@
-# 02_spring_boot_crud\n\n**Descrição:** Crie uma API REST CRUD simples com Spring Boot e H2 (em memória).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

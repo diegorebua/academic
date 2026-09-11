@@ -1,1 +1,0 @@
-# 01_consumo_api\n\n**Descrição:** Consuma uma API pública usando Axios dentro do onMounted e exiba dados (ex: filmes).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

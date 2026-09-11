@@ -1,0 +1,1 @@
+# 01 API REST\n\n**Descrição:** Crie uma API RESTful usando `net/http` puro, ou `gorilla/mux`, para CRUD de produtos.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

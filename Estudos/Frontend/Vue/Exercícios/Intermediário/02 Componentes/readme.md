@@ -1,0 +1,1 @@
+# 02 Componentes\n\n**Descrição:** Crie componentes pais e filhos passando props e emitindo eventos.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

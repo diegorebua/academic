@@ -1,1 +1,0 @@
-# 01_pokedex\n\n**Descrição:** Crie uma Pokedex consumindo a PokeAPI usando useEffect e fetch.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

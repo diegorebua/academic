@@ -1,0 +1,1 @@
+# 02 Branching\n\n**Descrição:** Crie branches, alterne entre elas (checkout/switch) e faça o merge (fast-forward).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

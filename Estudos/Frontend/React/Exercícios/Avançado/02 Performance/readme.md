@@ -1,0 +1,1 @@
+# 02 Performance\n\n**Descrição:** Otimize uma lista gigante usando React.memo, useMemo, useCallback e Virtualization (react-window).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

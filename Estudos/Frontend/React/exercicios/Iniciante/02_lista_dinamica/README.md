@@ -1,1 +1,0 @@
-# 02_lista_dinamica\n\n**Descrição:** Renderize uma lista de itens a partir de um array usando .map().\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

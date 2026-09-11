@@ -1,0 +1,1 @@
+# 01 Calculadora\n\n**Descrição:** Crie uma calculadora simples de operações básicas (soma, subtração, multiplicação, divisão).\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

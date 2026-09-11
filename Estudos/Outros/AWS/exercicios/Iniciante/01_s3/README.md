@@ -1,1 +1,0 @@
-# 01_s3\n\n**Descrição:** Crie um bucket, faça upload de arquivos usando o console e deixe-o como site estático.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

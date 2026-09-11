@@ -1,1 +1,0 @@
-# 01_hello_go\n\n**Descrição:** Escreva um programa que imprima Hello World e leia input do usuário.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n

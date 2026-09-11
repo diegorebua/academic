@@ -1,1 +1,0 @@
-# 01_spring_security\n\n**Descrição:** Adicione autenticação JWT à sua API Spring Boot.\n\n## 🚀 Instruções\n\n1. Leia o problema.\n2. Escreva seu código aqui nesta pasta.\n3. Teste sua solução.\n
