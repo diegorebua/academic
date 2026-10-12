@@ -8,3 +8,6 @@
 - [ ] Modelagem de dados (1:1, 1:N, N:N)
 - [ ] Índices e otimização básica de consultas
 - [ ] ACID e transações no Postgres
+
+## Ver também
+- [Modelagem Relacional](../../Modelagem%20Relacional/Anotações/modelagem-relacional.md) — PK, chave única, FK, 1:N, N:N e `ON DELETE`

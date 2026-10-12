@@ -11,3 +11,7 @@
 
 ## O que é (conceito)
 É o que permite os desenvolvedores integrarem com o banco de dados usando o código TS ou JS. Basicamente ele é o tradutor entre o banco de dados e o backend.
+
+## Ver também
+- [Prisma ORM](../../Prisma%20ORM/Anotações/prisma-orm.md) — outro ORM; `migrate` vs `generate`
+- [Seed e Dados Iniciais](../../Seed%20e%20Dados%20Iniciais/Anotações/seed-e-dados-iniciais.md) — migration vs seed
